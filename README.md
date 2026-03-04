@@ -45,19 +45,6 @@ Traditional AI chat interfaces have significant limitations for education:
 | **Pacing** | Instant output | Human-like pacing (writes as it speaks) |
 | **Notes** | Copy-paste text | Download full PDF class notes |
 
-## 🎥 Demo
-
-*(Demo video placeholder - to be added)*
-
-## 🤝 Collaborators
-
-<div align="center">
-
-| <a href="https://github.com/google"><img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="100px;" alt=""/><br /><sub><b>Google</b></sub></a> | <a href="https://github.com/facebook"><img src="https://avatars.githubusercontent.com/u/69631?v=4" width="100px;" alt=""/><br /><sub><b>Meta</b></sub></a> | <a href="https://github.com/microsoft"><img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="100px;" alt=""/><br /><sub><b>Microsoft</b></sub></a> |
-| :---: | :---: | :---: |
-| **AI Models** | **React Framework** | **TypeScript** |
-
-</div>
 
 ## 🚀 Future Features
 
