@@ -577,7 +577,7 @@ export default function Classroom({ isActive, onEndSession }: ClassroomProps) {
 
       const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
       const response = await ai.models.generateContent({
-        model: "gemini-3-flash-preview",
+        model: "gemini-2.5-flash",
         contents: `You are an expert SVG diagram generator. Generate raw SVG code for the following diagram description:
         
         DESCRIPTION: ${prompt}
